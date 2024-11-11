@@ -19,3 +19,8 @@ Esta aplicación permite a los usuarios buscar y visualizar personajes de la ser
 - **React Native CLI** instalado:
   ```bash
   npm install -g react-native-cli
+### Instalación 
+- **Node.js** y **npm** instalados en tu sistema.
+- **npm install**
+- **npx react-native run-ios**
+- **npx react-native run-android**
