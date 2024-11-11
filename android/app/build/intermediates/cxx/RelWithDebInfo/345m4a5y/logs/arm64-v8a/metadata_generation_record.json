@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 24 min SDK version: arm64-v8a",
+    "file_": "/Users/jazminrg/Documents/RyckAndMortyApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /Users/jazminrg/Documents/RyckAndMortyApp/android/app/.cxx/RelWithDebInfo/345m4a5y/arm64-v8a/android_gradle_build.json due to:",
+    "file_": "/Users/jazminrg/Documents/RyckAndMortyApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "/Users/jazminrg/Documents/RyckAndMortyApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "/opt/homebrew/Cellar/openjdk@17/17.0.13/libexec/openjdk.jdk/Contents/Home/bin/java \\\n  --class-path \\\n  /Users/jazminrg/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar \\\n  com.google.prefab.cli.AppKt \\\n  --build-system \\\n  cmake \\\n  --platform \\\n  android \\\n  --abi \\\n  arm64-v8a \\\n  --os-version \\\n  24 \\\n  --stl \\\n  c++_shared \\\n  --ndk-version \\\n  26 \\\n  --output \\\n  /var/folders/_r/18ghj2ss3dn2fmfz7zk0226c0000gn/T/agp-prefab-staging8003635304512501190/staged-cli-output \\\n  /Users/jazminrg/.gradle/caches/8.10.2/transforms/335e806144778f46a943d799acdead8b/transformed/react-android-0.76.1-release/prefab \\\n  /Users/jazminrg/Documents/RyckAndMortyApp/android/app/build/intermediates/cxx/refs/react-native-reanimated/696q6a1g \\\n  /Users/jazminrg/.gradle/caches/8.10.2/transforms/461b16042a3fbc3d5214703f3c2d7ff2/transformed/hermes-android-0.76.1-release/prefab \\\n  /Users/jazminrg/.gradle/caches/8.10.2/transforms/eb4b98dea289284ca2b26e9265bd49ab/transformed/fbjni-0.6.0/prefab\n",
+    "file_": "/Users/jazminrg/Documents/RyckAndMortyApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Received process result: 0",
+    "file_": "/Users/jazminrg/Documents/RyckAndMortyApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/Users/jazminrg/Documents/RyckAndMortyApp/android/app/.cxx/RelWithDebInfo/345m4a5y/arm64-v8a\u0027",
+    "file_": "/Users/jazminrg/Documents/RyckAndMortyApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/Users/jazminrg/Documents/RyckAndMortyApp/android/app/.cxx/RelWithDebInfo/345m4a5y/arm64-v8a\u0027",
+    "file_": "/Users/jazminrg/Documents/RyckAndMortyApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake /Users/jazminrg/Library/Android/sdk/cmake/3.22.1/bin/cmake \\\n  -H/Users/jazminrg/Documents/RyckAndMortyApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d24 \\\n  -DANDROID_PLATFORM\u003dandroid-24 \\\n  -DANDROID_ABI\u003darm64-v8a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a \\\n  -DANDROID_NDK\u003d/Users/jazminrg/Library/Android/sdk/ndk/26.1.10909125 \\\n  -DCMAKE_ANDROID_NDK\u003d/Users/jazminrg/Library/Android/sdk/ndk/26.1.10909125 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/Users/jazminrg/Library/Android/sdk/ndk/26.1.10909125/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/Users/jazminrg/Library/Android/sdk/cmake/3.22.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/jazminrg/Documents/RyckAndMortyApp/android/app/build/intermediates/cxx/RelWithDebInfo/345m4a5y/obj/arm64-v8a \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/jazminrg/Documents/RyckAndMortyApp/android/app/build/intermediates/cxx/RelWithDebInfo/345m4a5y/obj/arm64-v8a \\\n  -DCMAKE_BUILD_TYPE\u003dRelWithDebInfo \\\n  -DCMAKE_FIND_ROOT_PATH\u003d/Users/jazminrg/Documents/RyckAndMortyApp/android/app/.cxx/RelWithDebInfo/345m4a5y/prefab/arm64-v8a/prefab \\\n  -B/Users/jazminrg/Documents/RyckAndMortyApp/android/app/.cxx/RelWithDebInfo/345m4a5y/arm64-v8a \\\n  -GNinja \\\n  -DPROJECT_BUILD_DIR\u003d/Users/jazminrg/Documents/RyckAndMortyApp/android/app/build \\\n  -DREACT_ANDROID_DIR\u003d/Users/jazminrg/Documents/RyckAndMortyApp/node_modules/react-native/ReactAndroid \\\n  -DANDROID_STL\u003dc++_shared \\\n  -DANDROID_USE_LEGACY_TOOLCHAIN_FILE\u003dON\n",
+    "file_": "/Users/jazminrg/Documents/RyckAndMortyApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "/Users/jazminrg/Library/Android/sdk/cmake/3.22.1/bin/cmake \\\n  -H/Users/jazminrg/Documents/RyckAndMortyApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d24 \\\n  -DANDROID_PLATFORM\u003dandroid-24 \\\n  -DANDROID_ABI\u003darm64-v8a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a \\\n  -DANDROID_NDK\u003d/Users/jazminrg/Library/Android/sdk/ndk/26.1.10909125 \\\n  -DCMAKE_ANDROID_NDK\u003d/Users/jazminrg/Library/Android/sdk/ndk/26.1.10909125 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/Users/jazminrg/Library/Android/sdk/ndk/26.1.10909125/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/Users/jazminrg/Library/Android/sdk/cmake/3.22.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/jazminrg/Documents/RyckAndMortyApp/android/app/build/intermediates/cxx/RelWithDebInfo/345m4a5y/obj/arm64-v8a \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/jazminrg/Documents/RyckAndMortyApp/android/app/build/intermediates/cxx/RelWithDebInfo/345m4a5y/obj/arm64-v8a \\\n  -DCMAKE_BUILD_TYPE\u003dRelWithDebInfo \\\n  -DCMAKE_FIND_ROOT_PATH\u003d/Users/jazminrg/Documents/RyckAndMortyApp/android/app/.cxx/RelWithDebInfo/345m4a5y/prefab/arm64-v8a/prefab \\\n  -B/Users/jazminrg/Documents/RyckAndMortyApp/android/app/.cxx/RelWithDebInfo/345m4a5y/arm64-v8a \\\n  -GNinja \\\n  -DPROJECT_BUILD_DIR\u003d/Users/jazminrg/Documents/RyckAndMortyApp/android/app/build \\\n  -DREACT_ANDROID_DIR\u003d/Users/jazminrg/Documents/RyckAndMortyApp/node_modules/react-native/ReactAndroid \\\n  -DANDROID_STL\u003dc++_shared \\\n  -DANDROID_USE_LEGACY_TOOLCHAIN_FILE\u003dON\n",
+    "file_": "/Users/jazminrg/Documents/RyckAndMortyApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Received process result: 0",
+    "file_": "/Users/jazminrg/Documents/RyckAndMortyApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /Users/jazminrg/Documents/RyckAndMortyApp/android/app/.cxx/RelWithDebInfo/345m4a5y/arm64-v8a/compile_commands.json.bin normally",
+    "file_": "/Users/jazminrg/Documents/RyckAndMortyApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/Users/jazminrg/Documents/RyckAndMortyApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "hard linked /Users/jazminrg/Documents/RyckAndMortyApp/android/app/.cxx/RelWithDebInfo/345m4a5y/arm64-v8a/compile_commands.json to /Users/jazminrg/Documents/RyckAndMortyApp/android/app/.cxx/tools/release/arm64-v8a/compile_commands.json",
+    "file_": "/Users/jazminrg/Documents/RyckAndMortyApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/jazminrg/Documents/RyckAndMortyApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  }
+]

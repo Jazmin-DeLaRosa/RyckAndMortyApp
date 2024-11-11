@@ -1,0 +1,1 @@
+/Users/jazminrg/Documents/RyckAndMortyApp/android/app/build/intermediates/cxx/Debug/38356p1d/obj/x86_64

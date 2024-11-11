@@ -1,0 +1,15 @@
+current directory: /Users/jazminrg/RyckAndMortyApp/vendor/bundle/ruby/3.1.0/gems/nkf-0.2.0/ext/nkf
+/Users/jazminrg/.rbenv/versions/3.1.0/bin/ruby -I /Users/jazminrg/.rbenv/versions/3.1.0/lib/ruby/3.1.0 -r ./siteconf20241110-51182-fyzytx.rb extconf.rb
+creating Makefile
+
+current directory: /Users/jazminrg/RyckAndMortyApp/vendor/bundle/ruby/3.1.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= clean
+
+current directory: /Users/jazminrg/RyckAndMortyApp/vendor/bundle/ruby/3.1.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\=
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/jazminrg/RyckAndMortyApp/vendor/bundle/ruby/3.1.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20241110-51182-h5p46y

@@ -1,0 +1,6 @@
+/Users/jazminrg/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/jazminrg/Documents/RyckAndMortyApp/android/app/.cxx/RelWithDebInfo/345m4a5y/x86 \
+  appmodules \
+  react_codegen_rnscreens \
+  react_codegen_safeareacontext

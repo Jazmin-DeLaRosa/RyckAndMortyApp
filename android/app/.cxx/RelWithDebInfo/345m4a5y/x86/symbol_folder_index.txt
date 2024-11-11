@@ -1,0 +1,1 @@
+/Users/jazminrg/Documents/RyckAndMortyApp/android/app/build/intermediates/cxx/RelWithDebInfo/345m4a5y/obj/x86
